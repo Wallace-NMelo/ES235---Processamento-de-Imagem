@@ -2,37 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4a730852-7cf2-4290-9a12-f034def2e938" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atividades/atividade1/Atividade1.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atividades/atividade1/B.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atividades/atividade1/G.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atividades/atividade1/R.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atividades/atividade1/cpp/B.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atividades/atividade1/cpp/G.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atividades/atividade1/cpp/R.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atividades/atividade1/cpp/RGB.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atividades/atividade1/cpp/RGB_answer.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atividades/atividade1/cpp/read" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atividades/atividade1/cpp/read.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atividades/atividade1/python/B.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atividades/atividade1/python/G.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atividades/atividade1/python/R.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atividades/atividade1/python/RGB.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atividades/atividade1/python/RGB_answer.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atividades/atividade1/python/atividade.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atividades/atividade1/python/dados_cube.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projetos/miniprojeto_0/vrep_py/PI_wallace.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projetos/miniprojeto_0/vrep_py/remoteApi.so" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projetos/miniprojeto_0/vrep_py/vrep.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projetos/miniprojeto_0/vrep_py/vrepConst.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projetos/miniprojeto_1/Aula 11.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projetos/miniprojeto_1/jon_snow.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projetos/miniprojeto_1/miniprojeto_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projetos/miniprojeto_1/uno (cópia).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projetos/miniprojeto_1/video2.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projetos/miniprojeto_2/miniprojetov2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projetos/miniprojeto_2/output_inpait.avi" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projetos/miniprojeto_2/video.mp4" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <disabled>
