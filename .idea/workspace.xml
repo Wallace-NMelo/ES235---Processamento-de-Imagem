@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4a730852-7cf2-4290-9a12-f034def2e938" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/atividades/atividade1/Atividade1.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/atividades/atividade1/B.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/atividades/atividade1/G.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/atividades/atividade1/R.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/atividades/atividade1/cpp/B.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/atividades/atividade1/cpp/G.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/atividades/atividade1/cpp/R.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/atividades/atividade1/cpp/RGB.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/atividades/atividade1/cpp/RGB_answer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/atividades/atividade1/cpp/read" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/atividades/atividade1/cpp/read.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/atividades/atividade1/python/B.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/atividades/atividade1/python/G.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/atividades/atividade1/python/R.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/atividades/atividade1/python/RGB.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/atividades/atividade1/python/RGB_answer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/atividades/atividade1/python/atividade.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/atividades/atividade1/python/dados_cube.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projetos/miniprojeto_0/vrep_py/PI_wallace.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projetos/miniprojeto_0/vrep_py/remoteApi.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projetos/miniprojeto_0/vrep_py/vrep.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projetos/miniprojeto_0/vrep_py/vrepConst.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projetos/miniprojeto_1/Aula 11.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projetos/miniprojeto_1/jon_snow.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projetos/miniprojeto_1/miniprojeto_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projetos/miniprojeto_1/uno (cópia).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projetos/miniprojeto_1/video2.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projetos/miniprojeto_2/miniprojetov2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projetos/miniprojeto_2/output_inpait.avi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projetos/miniprojeto_2/video.mp4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <disabled>
+      <disabled_changelists>
+        <list default="true" id="4a730852-7cf2-4290-9a12-f034def2e938" name="Default Changelist" comment="">
+          <change afterPath="$PROJECT_DIR$/projetos/Projeto_final/FSRCNN_Tensorflow/aux_methods.py" afterDir="false" />
+          <change afterPath="$PROJECT_DIR$/projetos/Projeto_final/FSRCNN_Tensorflow/images/Texto arrastado.txt" afterDir="false" />
+          <change afterPath="$PROJECT_DIR$/projetos/Projeto_final/FSRCNN_Tensorflow/images/mrrobot.jpg" afterDir="false" />
+          <change afterPath="$PROJECT_DIR$/projetos/Projeto_final/FSRCNN_Tensorflow/images/mrrobot_original.jpg" afterDir="false" />
+          <change afterPath="$PROJECT_DIR$/projetos/Projeto_final/FSRCNN_Tensorflow/images/mrrobot_small.jpg" afterDir="false" />
+          <change afterPath="$PROJECT_DIR$/projetos/Projeto_final/FSRCNN_Tensorflow/images/resize.jpg" afterDir="false" />
+          <change afterPath="$PROJECT_DIR$/projetos/Projeto_final/FSRCNN_Tensorflow/images/upscale.jpg" afterDir="false" />
+          <change afterPath="$PROJECT_DIR$/projetos/Projeto_final/FSRCNN_Tensorflow/images_videos.py" afterDir="false" />
+          <change afterPath="$PROJECT_DIR$/projetos/Projeto_final/FSRCNN_Tensorflow/sample_videos.py" afterDir="false" />
+          <change afterPath="$PROJECT_DIR$/projetos/Projeto_final/FSRCNN_Tensorflow/test.py" afterDir="false" />
+          <change beforePath="$PROJECT_DIR$/projetos/Projeto_final/FSRCNN_Tensorflow/CKPT_dir/x2/fsrcnn_ckpt.data-00000-of-00001" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/Projeto_final/FSRCNN_Tensorflow/CKPT_dir/x2/fsrcnn_ckpt.data-00000-of-00001" afterDir="false" />
+          <change beforePath="$PROJECT_DIR$/projetos/Projeto_final/FSRCNN_Tensorflow/CKPT_dir/x2/fsrcnn_ckpt.index" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/Projeto_final/FSRCNN_Tensorflow/CKPT_dir/x2/fsrcnn_ckpt.index" afterDir="false" />
+          <change beforePath="$PROJECT_DIR$/projetos/Projeto_final/FSRCNN_Tensorflow/CKPT_dir/x2/fsrcnn_ckpt.meta" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/Projeto_final/FSRCNN_Tensorflow/CKPT_dir/x2/fsrcnn_ckpt.meta" afterDir="false" />
+          <change beforePath="$PROJECT_DIR$/projetos/Projeto_final/FSRCNN_Tensorflow/CKPT_dir/x2_small/fsrcnn_ckpt.data-00000-of-00001" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/Projeto_final/FSRCNN_Tensorflow/CKPT_dir/x2_small/fsrcnn_ckpt.data-00000-of-00001" afterDir="false" />
+          <change beforePath="$PROJECT_DIR$/projetos/Projeto_final/FSRCNN_Tensorflow/CKPT_dir/x2_small/fsrcnn_ckpt.index" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/Projeto_final/FSRCNN_Tensorflow/CKPT_dir/x2_small/fsrcnn_ckpt.index" afterDir="false" />
+          <change beforePath="$PROJECT_DIR$/projetos/Projeto_final/FSRCNN_Tensorflow/CKPT_dir/x2_small/fsrcnn_ckpt.meta" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/Projeto_final/FSRCNN_Tensorflow/CKPT_dir/x2_small/fsrcnn_ckpt.meta" afterDir="false" />
+          <change beforePath="$PROJECT_DIR$/projetos/Projeto_final/FSRCNN_Tensorflow/CKPT_dir/x3/fsrcnn_ckpt.data-00000-of-00001" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/Projeto_final/FSRCNN_Tensorflow/CKPT_dir/x3/fsrcnn_ckpt.data-00000-of-00001" afterDir="false" />
+          <change beforePath="$PROJECT_DIR$/projetos/Projeto_final/FSRCNN_Tensorflow/CKPT_dir/x3/fsrcnn_ckpt.index" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/Projeto_final/FSRCNN_Tensorflow/CKPT_dir/x3/fsrcnn_ckpt.index" afterDir="false" />
+          <change beforePath="$PROJECT_DIR$/projetos/Projeto_final/FSRCNN_Tensorflow/CKPT_dir/x3/fsrcnn_ckpt.meta" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/Projeto_final/FSRCNN_Tensorflow/CKPT_dir/x3/fsrcnn_ckpt.meta" afterDir="false" />
+          <change beforePath="$PROJECT_DIR$/projetos/Projeto_final/FSRCNN_Tensorflow/CKPT_dir/x4/fsrcnn_ckpt.data-00000-of-00001" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/Projeto_final/FSRCNN_Tensorflow/CKPT_dir/x4/fsrcnn_ckpt.data-00000-of-00001" afterDir="false" />
+          <change beforePath="$PROJECT_DIR$/projetos/Projeto_final/FSRCNN_Tensorflow/CKPT_dir/x4/fsrcnn_ckpt.index" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/Projeto_final/FSRCNN_Tensorflow/CKPT_dir/x4/fsrcnn_ckpt.index" afterDir="false" />
+          <change beforePath="$PROJECT_DIR$/projetos/Projeto_final/FSRCNN_Tensorflow/CKPT_dir/x4/fsrcnn_ckpt.meta" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/Projeto_final/FSRCNN_Tensorflow/CKPT_dir/x4/fsrcnn_ckpt.meta" afterDir="false" />
+          <change beforePath="$PROJECT_DIR$/projetos/Projeto_final/FSRCNN_Tensorflow/data_utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/Projeto_final/FSRCNN_Tensorflow/data_utils.py" afterDir="false" />
+          <change beforePath="$PROJECT_DIR$/projetos/Projeto_final/FSRCNN_Tensorflow/fsrcnn.py" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/Projeto_final/FSRCNN_Tensorflow/fsrcnn.py" afterDir="false" />
+          <change beforePath="$PROJECT_DIR$/projetos/Projeto_final/FSRCNN_Tensorflow/images/bicubicOutput.png" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/Projeto_final/FSRCNN_Tensorflow/images/bicubicOutput.png" afterDir="false" />
+          <change beforePath="$PROJECT_DIR$/projetos/Projeto_final/FSRCNN_Tensorflow/images/butterfly.png" beforeDir="false" />
+          <change beforePath="$PROJECT_DIR$/projetos/Projeto_final/FSRCNN_Tensorflow/images/fsrcnnOutput.png" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/Projeto_final/FSRCNN_Tensorflow/images/fsrcnnOutput.png" afterDir="false" />
+          <change beforePath="$PROJECT_DIR$/projetos/Projeto_final/FSRCNN_Tensorflow/images/input.png" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/Projeto_final/FSRCNN_Tensorflow/images/input.png" afterDir="false" />
+          <change beforePath="$PROJECT_DIR$/projetos/Projeto_final/FSRCNN_Tensorflow/images/original.png" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/Projeto_final/FSRCNN_Tensorflow/images/original.png" afterDir="false" />
+          <change beforePath="$PROJECT_DIR$/projetos/Projeto_final/FSRCNN_Tensorflow/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/Projeto_final/FSRCNN_Tensorflow/main.py" afterDir="false" />
+          <change beforePath="$PROJECT_DIR$/projetos/Projeto_final/FSRCNN_Tensorflow/models/FSRCNN-small_x2.pb" beforeDir="false" />
+          <change beforePath="$PROJECT_DIR$/projetos/Projeto_final/FSRCNN_Tensorflow/models/FSRCNN_x2.pb" beforeDir="false" />
+          <change beforePath="$PROJECT_DIR$/projetos/Projeto_final/FSRCNN_Tensorflow/models/FSRCNN_x3.pb" beforeDir="false" />
+          <change beforePath="$PROJECT_DIR$/projetos/Projeto_final/FSRCNN_Tensorflow/models/FSRCNN_x4.pb" beforeDir="false" />
+          <change beforePath="$PROJECT_DIR$/projetos/Projeto_final/FSRCNN_Tensorflow/run.py" beforeDir="false" afterPath="$PROJECT_DIR$/projetos/Projeto_final/FSRCNN_Tensorflow/run.py" afterDir="false" />
+        </list>
+      </disabled_changelists>
+      <disabled_trackers />
+    </disabled>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1miXtllUWFVwSXJYXf1whZBd5yn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/atividades/atividade1" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/atividades/atividade1" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4a730852-7cf2-4290-9a12-f034def2e938" name="Default Changelist" comment="" />
+      <created>1609977604340</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609977604340</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
